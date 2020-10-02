@@ -1,4 +1,8 @@
 
+## 0.3.4+11
+
+* [iOS] Fixed: finishing purchases upon payment dialog cancellation.
+
 ## 0.3.4+10
 
 * Fixed typo 'verity' for 'verify'.
